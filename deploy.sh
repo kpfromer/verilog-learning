@@ -1,0 +1,1 @@
+sudo iceprog demo.bin
